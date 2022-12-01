@@ -1,0 +1,40 @@
+.father{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+  
+}
+.bigbox{
+    width: 315px;
+height: 591px;
+border: 1px solid gray;
+}
+.title{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* or 175% */
+
+
+color: #000000;     
+}
+.text{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 12px;
+/* or 100% */
+
+display: flex;
+align-items: center;
+
+color: #666666;
+
+    
+}
+.btn{
+    background-color: greenyellowgit ;
+}
